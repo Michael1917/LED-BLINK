@@ -72,20 +72,22 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 
  
 8. Edit the generated main program as required.
-  <img width="716" height="261" alt="Screenshot 2025-10-28 222542" src="https://github.com/user-attachments/assets/be2169b0-bdcc-4e18-b896-f3f731f29187" />
+   
+<img width="716" height="261" alt="Screenshot 2025-10-28 222542" src="https://github.com/user-attachments/assets/be2169b0-bdcc-4e18-b896-f3f731f29187" />
 
-9. Click **Project → Build All**.
-   <img width="725" height="251" alt="Screenshot 2025-10-28 222628" src="https://github.com/user-attachments/assets/359040dc-7abc-48a3-879d-3b82959e990d" />
+10. Click **Project → Build All**.
+    
+<img width="725" height="251" alt="Screenshot 2025-10-28 222628" src="https://github.com/user-attachments/assets/359040dc-7abc-48a3-879d-3b82959e990d" />
 
-10. Link the **HEX file** using the post-build process.
+11. Link the **HEX file** using the post-build process.
 <img width="725" height="251" alt="Screenshot 2025-10-28 222628" src="https://github.com/user-attachments/assets/3763744a-a04b-405a-8a51-733e54eaf5d7" />
 
 
-11. Click **Debug** and connect the **STM Nucleo Board**.
+12. Click **Debug** and connect the **STM Nucleo Board**.
     <img width="1919" height="1199" alt="Screenshot 2025-10-28 222724" src="https://github.com/user-attachments/assets/4a9f9002-c6b9-47f6-8d6c-994bb9afe012" />
 
 
-12. Click **Run** to execute the program.
+13. Click **Run** to execute the program.
     
 ---
 
